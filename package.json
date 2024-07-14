@@ -1,0 +1,15 @@
+{
+  "name": "binance-to-parqet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Gschwendtner",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+}
